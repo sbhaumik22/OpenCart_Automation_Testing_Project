@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8fb1c70-120c-4d05-b17c-b0fd2cb7dbd3" name="Changes" comment="third commit">
-      <change afterPath="$PROJECT_DIR$/master.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parallelTesting.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/testBase/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testBase/BaseClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/TC_001_AccountRegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/TC_001_AccountRegistrationTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.D:/Automation Testing/OpenCartProject/master.xml.executor": "Run",
     "TestNG.D:/Automation Testing/OpenCartProject/parallelTesting.xml.executor": "Run",
     "TestNG.D:/Automation Testing/OpenCartProject/testng.xml.executor": "Run",
     "TestNG.TC_001_AccountRegistrationTest.executor": "Run",
@@ -67,7 +65,17 @@
       <recent name="D:\Automation Testing\OpenCartProject\src\test\java\testCases" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.D:/Automation Testing/OpenCartProject/parallelTesting.xml">
+  <component name="RunManager" selected="TestNG.D:/Automation Testing/OpenCartProject/master.xml">
+    <configuration name="D:/Automation Testing/OpenCartProject/master.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OpenCartProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/master.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="D:/Automation Testing/OpenCartProject/parallelTesting.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="OpenCartProject" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/parallelTesting.xml" />
@@ -125,10 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.D:/Automation Testing/OpenCartProject/master.xml" />
+        <item itemvalue="TestNG.TC_001_AccountRegistrationTest.verify_account_registration" />
         <item itemvalue="TestNG.D:/Automation Testing/OpenCartProject/parallelTesting.xml" />
         <item itemvalue="TestNG.D:/Automation Testing/OpenCartProject/testng.xml" />
         <item itemvalue="TestNG.TC_001_AccountRegistrationTest" />
-        <item itemvalue="TestNG.TC_001_AccountRegistrationTest.verify_account_registration" />
       </list>
     </recent_temporary>
   </component>
