@@ -23,7 +23,6 @@ public class TC_001_AccountRegistrationTest extends BaseClass {
 //        regpage.setTelephone(randomeNumber());
 
         String password = randomAlphaNumeric();
-
         regpage.setPassword(password);
 //        regpage.setConfirmPassword(password);
 
