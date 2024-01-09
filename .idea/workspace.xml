@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8fb1c70-120c-4d05-b17c-b0fd2cb7dbd3" name="Changes" comment="">
+    <list default="true" id="a8fb1c70-120c-4d05-b17c-b0fd2cb7dbd3" name="Changes" comment="third commit">
+      <change afterPath="$PROJECT_DIR$/master.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallelTesting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testBase/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testBase/BaseClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/testCases/TC_001_AccountRegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/TC_001_AccountRegistrationTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,24 +31,29 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2aiRG5Q4KiuLfmYxojyMOdGM0ma" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Main.executor": "Run",
     "Maven.OpenCartProject [test].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.D:/Automation Testing/OpenCartProject/parallelTesting.xml.executor": "Run",
+    "TestNG.D:/Automation Testing/OpenCartProject/testng.xml.executor": "Run",
     "TestNG.TC_001_AccountRegistrationTest.executor": "Run",
     "TestNG.TC_001_AccountRegistrationTest.verify_account_registration.executor": "Run",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Automation Testing/OpenCartProject/src/test/java/testCases",
+    "last_opened_file_path": "D:/Automation Testing/OpenCartProject/src/test/resources",
     "onboarding.tips.debug.path": "D:/Automation Testing/OpenCartProject/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -54,10 +63,31 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Automation Testing\OpenCartProject\src\test\resources" />
       <recent name="D:\Automation Testing\OpenCartProject\src\test\java\testCases" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TC_001_AccountRegistrationTest.verify_account_registration">
+  <component name="RunManager" selected="TestNG.D:/Automation Testing/OpenCartProject/parallelTesting.xml">
+    <configuration name="D:/Automation Testing/OpenCartProject/parallelTesting.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OpenCartProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/parallelTesting.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Automation Testing/OpenCartProject/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OpenCartProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TC_001_AccountRegistrationTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="OpenCartProject" />
       <extension name="coverage">
@@ -95,8 +125,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TC_001_AccountRegistrationTest.verify_account_registration" />
+        <item itemvalue="TestNG.D:/Automation Testing/OpenCartProject/parallelTesting.xml" />
+        <item itemvalue="TestNG.D:/Automation Testing/OpenCartProject/testng.xml" />
         <item itemvalue="TestNG.TC_001_AccountRegistrationTest" />
+        <item itemvalue="TestNG.TC_001_AccountRegistrationTest.verify_account_registration" />
       </list>
     </recent_temporary>
   </component>
@@ -116,6 +148,20 @@
       <option name="presentableId" value="Default" />
       <updated>1704799314514</updated>
     </task>
+    <task id="LOCAL-00001" summary="third commit">
+      <option name="closed" value="true" />
+      <created>1704812770953</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704812770953</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="third commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
   </component>
 </project>
