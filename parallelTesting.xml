@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite" thread-count="2" parallel="tests">
-    <test verbose="2" preserve-order="true" name="TC_001_AccountRegistrationTestChrome">
+    <test verbose="2" name="TC_001_AccountRegistrationTestChrome">
         <parameter name="os" value="Windows"/>
         <parameter name="browser" value="chrome"/>
         <classes>
@@ -13,7 +13,7 @@
         </classes>
     </test>
 
-    <test verbose="2" preserve-order="true" name="TC_001_AccountRegistrationTestEdge">
+    <test verbose="2" name="TC_001_AccountRegistrationTestEdge">
         <parameter name="os" value="Windows"/>
         <parameter name="browser" value="edge"/>
         <classes>
