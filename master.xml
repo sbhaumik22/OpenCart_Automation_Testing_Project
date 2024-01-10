@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Master Suite">
-<!--    <test verbose="2" name="TC_001_AccountRegistrationTestChrome">-->
-<!--        <parameter name="os" value="Windows"/>-->
-<!--        <parameter name="browser" value="chrome"/>-->
-<!--        <classes>-->
-<!--            <class name="testCases.TC_001_AccountRegistrationTest">-->
-<!--                <methods>-->
-<!--                    <include name="verify_account_registration"/>-->
-<!--                </methods>-->
-<!--            </class>-->
-<!--        </classes>-->
-<!--    </test>-->
+    <!--    <test verbose="2" name="TC_001_AccountRegistrationTestChrome">-->
+    <!--        <parameter name="os" value="Windows"/>-->
+    <!--        <parameter name="browser" value="chrome"/>-->
+    <!--        <classes>-->
+    <!--            <class name="testCases.TC_001_AccountRegistrationTest">-->
+    <!--                <methods>-->
+    <!--                    <include name="verify_account_registration"/>-->
+    <!--                </methods>-->
+    <!--            </class>-->
+    <!--        </classes>-->
+    <!--    </test>-->
 
     <test verbose="2" name="TC_002_LoginTest">
         <parameter name="os" value="Windows"/>
@@ -24,6 +24,4 @@
             </class>
         </classes>
     </test>
-
-
 </suite>
