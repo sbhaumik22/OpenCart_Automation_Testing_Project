@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8fb1c70-120c-4d05-b17c-b0fd2cb7dbd3" name="Changes" comment="third commit">
+      <change afterPath="$PROJECT_DIR$/logs/automation-2024-01-10.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/TC_003_LoginDDT.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/master.xml" beforeDir="false" afterPath="$PROJECT_DIR$/master.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/utilities/DataProviders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/DataProviders.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ExcelUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/ExcelUtility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testData/Opencart_LoginData.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testData/Opencart_LoginData.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,10 +53,11 @@
     "TestNG.TC_001_AccountRegistrationTest.executor": "Run",
     "TestNG.TC_001_AccountRegistrationTest.verify_account_registration.executor": "Run",
     "TestNG.TC_002_LoginTest.executor": "Run",
+    "TestNG.TC_003_LoginDDT.executor": "Run",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Automation Testing/OpenCartProject/src/test/java/utilities",
+    "last_opened_file_path": "D:/Automation Testing/OpenCartProject/testData",
     "onboarding.tips.debug.path": "D:/Automation Testing/OpenCartProject/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -65,10 +67,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Automation Testing\OpenCartProject\testData" />
+      <recent name="D:\Automation Testing\OpenCartProject\src\test\java\testCases" />
       <recent name="D:\Automation Testing\OpenCartProject\src\test\java\utilities" />
       <recent name="D:\Automation Testing\OpenCartProject\src\test\java\testData" />
-      <recent name="D:\Automation Testing\OpenCartProject\src\test\java\testCases" />
       <recent name="D:\Automation Testing\OpenCartProject\src\test\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Automation Testing\OpenCartProject\testData" />
     </key>
   </component>
   <component name="RunManager" selected="TestNG.D:/Automation Testing/OpenCartProject/master.xml">
@@ -85,16 +91,6 @@
     <configuration name="D:/Automation Testing/OpenCartProject/parallelTesting.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="OpenCartProject" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/parallelTesting.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="D:/Automation Testing/OpenCartProject/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="OpenCartProject" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -137,13 +133,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TC_003_LoginDDT" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OpenCartProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testCases" />
+      <option name="MAIN_CLASS_NAME" value="testCases.TC_003_LoginDDT" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.D:/Automation Testing/OpenCartProject/master.xml" />
+        <item itemvalue="TestNG.TC_003_LoginDDT" />
         <item itemvalue="TestNG.TC_002_LoginTest" />
         <item itemvalue="TestNG.TC_001_AccountRegistrationTest.verify_account_registration" />
         <item itemvalue="TestNG.D:/Automation Testing/OpenCartProject/parallelTesting.xml" />
-        <item itemvalue="TestNG.D:/Automation Testing/OpenCartProject/testng.xml" />
       </list>
     </recent_temporary>
   </component>
