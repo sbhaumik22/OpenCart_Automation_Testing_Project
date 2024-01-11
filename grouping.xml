@@ -4,6 +4,13 @@
     <test verbose="2" preserve-order="true" name="Test">
         <parameter name="os" value="Windows"/>
         <parameter name="browser" value="chrome"/>
+        <groups>
+            <run>
+                <include name="sanity"/>
+                <!--                <include name="regression"/>-->
+                <!--                <include name="master"/>-->
+            </run>
+        </groups>
         <classes>
             <class name="testCases.TC_001_AccountRegistrationTest"/>
             <class name="testCases.TC_002_LoginTest"/>

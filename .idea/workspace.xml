@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8fb1c70-120c-4d05-b17c-b0fd2cb7dbd3" name="Changes" comment="third commit">
-      <change afterPath="$PROJECT_DIR$/grouping.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/automation-2024-01-11.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grouping.xml" beforeDir="false" afterPath="$PROJECT_DIR$/grouping.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/master.xml" beforeDir="false" afterPath="$PROJECT_DIR$/master.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testBase/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testBase/BaseClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/TC_001_AccountRegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/TC_001_AccountRegistrationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/TC_002_LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/TC_002_LoginTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,33 +37,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Main.executor": "Run",
-    "Maven.OpenCartProject [test].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TestNG.D:/Automation Testing/OpenCartProject/grouping.xml.executor": "Run",
-    "TestNG.D:/Automation Testing/OpenCartProject/master.xml.executor": "Run",
-    "TestNG.D:/Automation Testing/OpenCartProject/parallelTesting.xml.executor": "Run",
-    "TestNG.D:/Automation Testing/OpenCartProject/testng.xml.executor": "Run",
-    "TestNG.TC_001_AccountRegistrationTest.executor": "Run",
-    "TestNG.TC_001_AccountRegistrationTest.verify_account_registration.executor": "Run",
-    "TestNG.TC_002_LoginTest.executor": "Run",
-    "TestNG.TC_003_LoginDDT.executor": "Run",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Automation Testing/OpenCartProject/testData",
-    "onboarding.tips.debug.path": "D:/Automation Testing/OpenCartProject/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "settings.sync"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.OpenCartProject [test].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.D:/Automation Testing/OpenCartProject/grouping.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.D:/Automation Testing/OpenCartProject/master.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.D:/Automation Testing/OpenCartProject/parallelTesting.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.D:/Automation Testing/OpenCartProject/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TC_001_AccountRegistrationTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TC_001_AccountRegistrationTest.verify_account_registration.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TC_002_LoginTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TC_003_LoginDDT.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Automation Testing/OpenCartProject/testData&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Automation Testing/OpenCartProject/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Automation Testing\OpenCartProject\testData" />

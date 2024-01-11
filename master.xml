@@ -3,11 +3,9 @@
 <suite name="Master Suite">
     <test verbose="2" name="All test cases">
         <parameter name="os" value="Windows"/>
-        <parameter name="browser" value="chrome"/>
+        <parameter name="browser" value="edge"/>
         <groups>
             <run>
-<!--                <include name="sanity"/>-->
-<!--                <include name="regression"/>-->
                 <include name="master"/>
             </run>
         </groups>
