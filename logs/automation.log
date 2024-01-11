@@ -7,3 +7,12 @@
 19:52:16.514 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
 19:52:16.515 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
 19:52:16.516 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+20:32:04.246 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+20:32:04.249 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+20:32:04.363 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+20:32:04.751 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+20:32:04.752 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+20:32:05.145 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+20:32:05.629 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+20:32:05.631 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+20:32:05.631 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****

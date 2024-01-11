@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8fb1c70-120c-4d05-b17c-b0fd2cb7dbd3" name="Changes" comment="third commit">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2024.01.11.19.39.58.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2024.01.11.19.48.53.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2024.01.11.19.52.10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2024.01.11.20.20.57.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2024.01.11.20.22.28.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2024.01.11.20.24.55.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master.xml" beforeDir="false" afterPath="$PROJECT_DIR$/master.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testBase/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testBase/BaseClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +41,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Main.executor": "Run",
+    "Maven.OpenCartProject [org.apache.maven.plugins:maven-surefire-plugin:3.2.5:test].executor": "Run",
     "Maven.OpenCartProject [test].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -66,7 +63,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "settings.sync"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -81,7 +78,37 @@
       <recent name="D:\Automation Testing\OpenCartProject\testData" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.D:/Automation Testing/OpenCartProject/master.xml">
+  <component name="RunManager" selected="Maven.OpenCartProject [test]">
+    <configuration name="OpenCartProject [test]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
     <configuration name="D:/Automation Testing/OpenCartProject/final.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="OpenCartProject" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/final.xml" />
@@ -112,23 +139,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TC_002_LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="OpenCartProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testCases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testCases" />
-      <option name="MAIN_CLASS_NAME" value="testCases.TC_002_LoginTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TC_003_LoginDDT" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="OpenCartProject" />
       <extension name="coverage">
@@ -148,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Maven.OpenCartProject [test]" />
         <item itemvalue="TestNG.D:/Automation Testing/OpenCartProject/master.xml" />
         <item itemvalue="TestNG.D:/Automation Testing/OpenCartProject/final.xml" />
         <item itemvalue="TestNG.D:/Automation Testing/OpenCartProject/grouping.xml" />
         <item itemvalue="TestNG.TC_003_LoginDDT" />
-        <item itemvalue="TestNG.TC_002_LoginTest" />
       </list>
     </recent_temporary>
   </component>
