@@ -16,3 +16,21 @@
 20:32:05.629 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
 20:32:05.631 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
 20:32:05.631 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+20:51:22.494 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+20:51:22.496 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+20:51:22.592 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+20:51:22.977 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+20:51:22.977 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+20:51:23.356 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+20:51:23.817 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+20:51:23.818 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+20:51:23.819 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+20:59:12.798 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+20:59:12.801 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+20:59:12.892 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+20:59:13.299 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+20:59:13.299 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+20:59:13.668 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+20:59:14.189 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+20:59:14.191 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+20:59:14.191 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****

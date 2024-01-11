@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8fb1c70-120c-4d05-b17c-b0fd2cb7dbd3" name="Changes" comment="third commit">
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2024.01.11.20.20.57.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2024.01.11.20.22.28.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2024.01.11.20.24.55.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2024.01.11.20.51.19.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2024.01.11.20.59.10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run.bat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
