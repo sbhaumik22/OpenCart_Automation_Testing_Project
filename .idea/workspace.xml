@@ -5,18 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8fb1c70-120c-4d05-b17c-b0fd2cb7dbd3" name="Changes" comment="third commit">
-      <change afterPath="$PROJECT_DIR$/final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2024.01.11.17.02.31.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2024.01.11.17.17.52.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ExtentReportManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2024.01.11.19.39.58.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2024.01.11.19.48.53.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2024.01.11.19.52.10.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grouping.xml" beforeDir="false" afterPath="$PROJECT_DIR$/grouping.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/master.xml" beforeDir="false" afterPath="$PROJECT_DIR$/master.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parallelTesting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/parallelTesting.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/testBase/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testBase/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +81,7 @@
       <recent name="D:\Automation Testing\OpenCartProject\testData" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.D:/Automation Testing/OpenCartProject/final.xml">
+  <component name="RunManager" selected="TestNG.D:/Automation Testing/OpenCartProject/master.xml">
     <configuration name="D:/Automation Testing/OpenCartProject/final.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="OpenCartProject" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/final.xml" />
@@ -151,8 +148,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.D:/Automation Testing/OpenCartProject/final.xml" />
         <item itemvalue="TestNG.D:/Automation Testing/OpenCartProject/master.xml" />
+        <item itemvalue="TestNG.D:/Automation Testing/OpenCartProject/final.xml" />
         <item itemvalue="TestNG.D:/Automation Testing/OpenCartProject/grouping.xml" />
         <item itemvalue="TestNG.TC_003_LoginDDT" />
         <item itemvalue="TestNG.TC_002_LoginTest" />
