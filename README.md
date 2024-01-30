@@ -7,7 +7,7 @@ The purpose of this project is to automate the test scenarios of OpenCart web ap
 #### Project Structure:
 ```mermaid
 graph LR
-A[Page Objects]--> B[Test Cases] --> C[TestNG.xml] --> D[pom.xml]
+A[Page Objects]--> B[Test Cases] --> C[TestNG.xml]
 E[Utilities] --> B
 F[Test Data] --> B
 G[Resources] --> B
